@@ -1,4 +1,4 @@
-package com.example.crypto_exchange_service;
+package com.example.crypto.exchange.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

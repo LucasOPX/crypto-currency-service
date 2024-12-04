@@ -1,4 +1,4 @@
-package com.example.crypto_exchange_service;
+package com.example.crypto.exchange.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+app:
+  cryptoApi:
+    baseUrl: https://api.coingecko.com/api/v3/simple/price
+  fee:
+    percentage: 0.01  # 1% fee by default
+
+logging:
+  level:
+    root: INFO
+    com.example.crypto.exchange.service: DEBUG
